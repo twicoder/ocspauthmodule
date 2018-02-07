@@ -1,6 +1,6 @@
 {
   "name": "ocspauthmodule",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This is a module used to provide login/logout function for express framework and user can get jwt from login post route",
   "main": "index.js",
   "scripts": {
